@@ -1,0 +1,30 @@
+some benchmark results, RDLP 1.07
+(1)
+OS:  WINXP PRO SP2
+CPU: P4 Celeron @1.7G (Willamette, 0.18 um)
+MEM: 512MB DDR 266
+
+Init Prime Table
+64K:0 Er,82 us
+1024K:0 Er,1222 us
+Benchmark PowMod
+512:460/20 us
+1024:2871/60 us
+2048:20044/213 us
+
+(2)
+OS:  WINXP PRO SP2
+CPU: Celeron M 530 @1.73G (Merom, 65 nm)
+MEM: 1GB DDR-II 667
+
+Init Prime Table
+64K:0 Er,54 us
+1024K:0 Er,798 us
+Benchmark PowMod
+512:228/10 us
+1024:1419/28 us
+2048:9640/99 us
+
+(3)
+... adds
+
